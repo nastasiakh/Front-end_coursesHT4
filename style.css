@@ -1,0 +1,68 @@
+.clearfix:after{
+    content:"";
+    display: block;
+    clear: both;
+}
+.left{
+    float: left;
+}
+.width-33{
+    width: 33%;
+}
+.width-66{
+    width: 66%;
+}
+.width-50{
+    width: 50%;
+}
+.block1{
+    background-color: #FF5600;
+}
+.block2{
+    background-color: #BF6030;
+}
+.block3{
+    background-color: #A63800;
+}
+.block4{
+    background-color: #A069D6;
+}
+.block5{
+    background-color: #8D41D6;
+}
+.block6{
+    background-color: #3B0470;
+}
+.block7{
+    background-color: #552781;
+}
+.block8{
+    background-color: #5E0DAC;
+}
+.block9-13{
+    background-color: #5DCFC3;
+}
+.block10-13{
+    background-color: #00675C;
+}
+.block11{
+    background-color: #009E8E;
+}
+.block12-13{
+    background-color: #34D1B2;
+}
+.block14-18{
+    background-color: #DAFB3F;
+}
+.block15-17{
+    background-color: #CCF600;
+}
+.block18{
+    background-color: #A1B92E;
+}
+.block19{
+    background-color: #8BF13C;
+}
+.block16-17{
+    background-color: gold;
+}
